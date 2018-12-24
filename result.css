@@ -1,0 +1,30 @@
+.er1{color: blue}
+body{font-family: Roboto;}
+p{font-style: 20px;}
+
+a{text-decoration: none;}
+
+.test1{
+  font-size: 14px;
+  background-color: orange;
+  color:white;
+  height: 100%;
+ margin-right: 100px;
+}
+#left1{
+  width: 50%; float: left;
+  background-color: white;
+
+}
+
+#right1{
+  width: 30%; float: right;
+  background-color: orange;
+  color: white;
+   text-align: left ;
+   height: 1200px;
+   padding-left: 90px;
+   font-family: Roboto;
+
+}
+.f1{font-size: 30px;font-family: Roboto;}
