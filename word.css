@@ -39,8 +39,7 @@ a{text-decoration: none;}
       margin: 0;
     padding: 0;
 }*/
- .menu{  margin: -20px;
-   }
+ 
 
   ul {
   list-style: none; /*убираем маркеры списка*/
@@ -70,3 +69,13 @@ a:hover {background:#1C85BB;}
 #o2{width: 25%; float: left;}
 #o3{width: 25%; float: left;}
 #o4{width: 25%; float: left;}
+
+
+#v1{ font-size: 36px;
+  background-color: white;
+  color:red;
+  height: 10%;
+ margin-right: 100px;}
+ #v1:hover {background:#1C85BB;
+   background-color:red;
+  color:white;}
